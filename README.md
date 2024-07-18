@@ -23,10 +23,10 @@ The goal of this repository is to help us learn and understand the fundamentals 
 
 ## Installation
 
-To use this repository, you need to have Python and NumPy installed. You can install the required packages using pip:
+To use this repository, you need to have Python, NumPy, and Jupyter Notebook installed. You can install the required packages using pip:
 
 ```bash
-pip install numpy
+pip install numpy jupyter
 ```
 
 Clone this repository to your local machine:
@@ -38,11 +38,10 @@ cd machine-learning-algorithms-from-the-beginning
 
 ## Usage
 
-Each algorithm is implemented in its own directory with a detailed README explaining the theory, math, and code. You can run the algorithms by navigating to the respective directory and executing the Python script. For example:
+Each algorithm is implemented in its own Jupyter Notebook (`.ipynb`) file. You can run these notebooks using Jupyter. For example:
 
 ```bash
-cd linear_regression
-python linear_regression.py
+jupyter notebook linear-regression-algorithm-for-single-features.ipynb
 ```
 
 Feel free to explore, modify, and experiment with the code to deepen your understanding.
