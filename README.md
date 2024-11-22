@@ -21,6 +21,7 @@ The goal of this repository is to help us learn and understand the fundamentals 
 1. **Linear Regression for Single Features**
 2. **Linear Regression for Multiple Variables (Features)**
 3. **Logistic Regression**
+4. **Decision Tree**
 
 ## Installation
 
