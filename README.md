@@ -19,9 +19,9 @@ The goal of this repository is to help us learn and understand the fundamentals 
 ## Algorithms Implemented
 
 1. [**Linear Regression for Single Features**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/linear-regression-algorithm-for-single-features.ipynb)
-2. **Linear Regression for Multiple Variables (Features)**
-3. **Logistic Regression**
-4. **Decision Tree**
+2. [**Linear Regression for Multiple Variables (Features)**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/linear-regression-algorithm-for-multiple-features.ipynb)
+3. [**Logistic Regression**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/logistic-regression-algorithm.ipynb)
+4. [**Decision Tree**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/decision-tree.ipynb)
 
 ## Installation
 
