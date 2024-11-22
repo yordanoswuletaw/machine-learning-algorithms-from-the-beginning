@@ -18,7 +18,7 @@ The goal of this repository is to help us learn and understand the fundamentals 
 
 ## Algorithms Implemented
 
-1. **Linear Regression for Single Features**
+1. [**Linear Regression for Single Features**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/linear-regression-algorithm-for-single-features.ipynb)
 2. **Linear Regression for Multiple Variables (Features)**
 3. **Logistic Regression**
 4. **Decision Tree**
