@@ -22,6 +22,9 @@ The goal of this repository is to help us learn and understand the fundamentals 
 2. [**Linear Regression for Multiple Variables (Features)**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/linear-regression-algorithm-for-multiple-features.ipynb)
 3. [**Logistic Regression**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/logistic-regression-algorithm.ipynb)
 4. [**Decision Tree**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/decision-tree.ipynb)
+5. [**Feed Forward Neural Network**](https://github.com/yordanoswuletaw/machine-learning-algorithms-from-the-beginning/blob/main/feed-forward-neural-network.ipynb
+)
+
 
 ## Installation
 
